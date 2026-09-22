@@ -1,0 +1,121 @@
+id,programa,semestre,edad,uso_R_antes,horas_estudio_semana,transporte,nota_estadistica
+1,Ingeniería Civil,1,16,No,8.5,TransMilenio,3.0
+2,Ingeniería Civil,4,19,Sí,9.7,SITP,2.8
+3,Ingeniería Eléctrica,1,19,No,13.1,Bicicleta,3.7
+4,Ingeniería de Sistemas,1,16,Sí,14.7,Otro,3.7
+5,Ingeniería de Sistemas,3,18,No,12.8,SITP,4.6
+6,Ingeniería de Sistemas,3,17,Sí,6.6,TransMilenio,3.8
+7,Ingeniería Civil,3,20,Sí,11.8,SITP,2.6
+8,Ingeniería Industrial,1,17,Sí,4.8,TransMilenio,3.3
+9,Ingeniería de Sistemas,1,19,Sí,10.7,TransMilenio,3.3
+10,Ingeniería de Sistemas,2,17,Sí,6.3,SITP,2.9
+11,Matemáticas,5,19,No,7.7,TransMilenio,3.7
+12,Estadística,2,16,No,8.2,TransMilenio,4.0
+13,Ingeniería Civil,3,17,No,10.1,Bicicleta,3.7
+14,Ingeniería Mecánica,3,20,Sí,1.9,Bicicleta,2.5
+15,Estadística,2,19,Sí,12.1,SITP,2.5
+16,Ingeniería Mecánica,6,22,No,11.5,SITP,4.0
+17,Ingeniería Mecánica,1,16,No,11.0,TransMilenio,2.7
+18,Ingeniería Mecánica,1,16,No,4.8,Otro,2.6
+19,Ingeniería Eléctrica,3,19,No,11.5,A pie,4.4
+20,Ingeniería de Sistemas,4,19,No,1.5,Bicicleta,2.2
+21,Ingeniería de Sistemas,3,17,Sí,1.9,Bicicleta,2.8
+22,Ingeniería Civil,4,21,No,10.7,Bicicleta,3.8
+23,Ingeniería Industrial,1,16,No,13.8,SITP,3.8
+24,Ingeniería de Sistemas,2,19,Sí,3.3,TransMilenio,2.7
+25,Ingeniería Industrial,3,18,No,13.0,TransMilenio,3.7
+26,Ingeniería de Sistemas,5,21,No,11.0,A pie,3.3
+27,Ingeniería Eléctrica,1,17,No,7.7,A pie,2.1
+28,Ingeniería Mecánica,1,17,No,5.8,TransMilenio,3.6
+29,Ingeniería Industrial,2,18,Sí,13.1,SITP,3.5
+30,Ingeniería de Sistemas,2,18,Sí,10.9,Bicicleta,2.8
+31,Matemáticas,1,18,No,5.5,A pie,3.8
+32,Ingeniería Industrial,6,20,No,4.8,SITP,3.0
+33,Ingeniería Eléctrica,1,16,No,7.4,TransMilenio,3.4
+34,Ingeniería de Sistemas,1,19,Sí,11.5,A pie,4.6
+35,Ingeniería de Sistemas,4,19,No,6.0,Bicicleta,3.2
+36,Ingeniería de Sistemas,2,19,No,13.9,SITP,3.5
+37,Ingeniería de Sistemas,1,18,No,9.3,SITP,4.1
+38,Ingeniería Civil,4,19,No,3.0,TransMilenio,2.2
+39,Ingeniería Civil,1,20,No,8.1,Bicicleta,3.0
+40,Matemáticas,2,16,No,8.7,TransMilenio,3.0
+41,Ingeniería Industrial,3,21,No,7.4,A pie,3.0
+42,Ingeniería Industrial,3,21,No,8.7,SITP,3.3
+43,Ingeniería de Sistemas,1,16,No,13.0,TransMilenio,3.5
+44,Ingeniería de Sistemas,2,17,No,9.3,SITP,3.9
+45,Estadística,3,18,No,5.8,TransMilenio,3.8
+46,Ingeniería de Sistemas,2,18,No,13.4,Bicicleta,3.8
+47,Ingeniería Eléctrica,3,20,No,8.0,SITP,3.5
+48,Ingeniería de Sistemas,3,18,Sí,0,A pie,3.1
+49,Estadística,5,22,Sí,7.0,Otro,3.5
+50,Ingeniería de Sistemas,2,20,No,6.1,SITP,2.8
+51,Ingeniería Civil,4,20,No,13.6,Bicicleta,5.0
+52,Ingeniería Eléctrica,4,19,Sí,8.1,TransMilenio,3.4
+53,Ingeniería de Sistemas,4,19,No,0,TransMilenio,3.2
+54,Matemáticas,3,17,No,13.1,SITP,3.8
+55,Ingeniería Civil,1,19,No,11.9,TransMilenio,4.6
+56,Ingeniería de Sistemas,4,20,No,5.8,Otro,3.2
+57,Ingeniería Mecánica,1,19,No,9.3,SITP,4.1
+58,Matemáticas,6,19,No,6.8,SITP,3.4
+59,Estadística,1,16,No,8.3,TransMilenio,3.2
+60,Ingeniería de Sistemas,1,18,No,16.1,SITP,5.0
+61,Ingeniería Eléctrica,5,19,No,12.3,TransMilenio,4.1
+62,Ingeniería Mecánica,3,18,No,4.5,TransMilenio,3.4
+63,Ingeniería de Sistemas,4,18,Sí,9.1,TransMilenio,3.3
+64,Estadística,2,19,Sí,11.2,TransMilenio,3.4
+65,Ingeniería de Sistemas,4,19,Sí,6.0,SITP,3.5
+66,Ingeniería Mecánica,1,16,No,10.9,Bicicleta,4.1
+67,Ingeniería Mecánica,2,17,No,9.7,TransMilenio,4.4
+68,Ingeniería Industrial,1,17,No,8.4,A pie,3.6
+69,Ingeniería Industrial,3,17,Sí,1.8,Bicicleta,3.7
+70,Ingeniería de Sistemas,3,18,No,5.2,A pie,4.4
+71,Ingeniería Civil,1,17,No,12.2,SITP,4.0
+72,Ingeniería Industrial,5,19,No,9.3,Bicicleta,3.9
+73,Ingeniería de Sistemas,2,18,No,12.7,SITP,4.7
+74,Ingeniería de Sistemas,3,20,No,7.8,SITP,3.8
+75,Ingeniería de Sistemas,3,18,Sí,13.2,A pie,3.7
+76,Ingeniería Industrial,2,18,No,8.0,Otro,1.9
+77,Ingeniería Eléctrica,5,20,No,11.7,TransMilenio,4.6
+78,Ingeniería Civil,1,16,No,10.0,A pie,3.3
+79,Ingeniería de Sistemas,1,18,No,6.0,TransMilenio,3.2
+80,Ingeniería Eléctrica,4,20,No,9.3,SITP,3.2
+81,Ingeniería Civil,1,16,No,8.6,TransMilenio,4.3
+82,Ingeniería de Sistemas,5,24,No,15.7,SITP,3.9
+83,Ingeniería de Sistemas,2,17,No,7.5,TransMilenio,2.8
+84,Ingeniería Mecánica,3,19,No,11.8,SITP,3.4
+85,Ingeniería Industrial,4,21,No,8.9,SITP,4.0
+86,Ingeniería Eléctrica,6,23,No,11.1,TransMilenio,3.1
+87,Ingeniería de Sistemas,3,19,No,0.9,TransMilenio,2.4
+88,Ingeniería de Sistemas,2,17,No,9.8,SITP,4.0
+89,Ingeniería Civil,2,19,No,9.4,SITP,2.8
+90,Ingeniería Industrial,1,17,Sí,9.4,TransMilenio,3.7
+91,Ingeniería Eléctrica,3,19,Sí,6.5,TransMilenio,3.7
+92,Ingeniería Industrial,2,20,Sí,10.2,Otro,4.1
+93,Ingeniería de Sistemas,1,18,No,8.8,Bicicleta,3.2
+94,Ingeniería Industrial,3,16,Sí,7.8,Bicicleta,3.4
+95,Ingeniería de Sistemas,4,21,No,11.6,TransMilenio,4.2
+96,Matemáticas,1,19,Sí,18.1,SITP,4.7
+97,Ingeniería Mecánica,5,20,No,12.2,SITP,4.7
+98,Ingeniería de Sistemas,2,16,Sí,0.4,SITP,2.3
+99,Ingeniería Civil,3,20,No,6.8,TransMilenio,3.2
+100,Ingeniería Mecánica,2,16,No,7.4,TransMilenio,3.4
+101,Ingeniería Civil,1,20,No,12.4,TransMilenio,3.5
+102,Ingeniería Civil,2,16,No,10.5,TransMilenio,3.6
+103,Ingeniería Civil,1,17,Sí,18.3,TransMilenio,4.2
+104,Estadística,6,21,Sí,7.6,TransMilenio,4.1
+105,Ingeniería Eléctrica,5,19,Sí,11.5,SITP,3.1
+106,Ingeniería Mecánica,2,18,No,5.6,TransMilenio,3.0
+107,Ingeniería Industrial,5,22,No,9.8,TransMilenio,3.3
+108,Ingeniería Mecánica,2,18,No,5.6,Otro,2.9
+109,Ingeniería Industrial,1,17,No,10.4,SITP,3.9
+110,Ingeniería Industrial,6,22,No,9.9,Bicicleta,4.1
+111,Estadística,3,19,Sí,10.1,TransMilenio,4.3
+112,Estadística,3,17,No,17.7,Otro,4.7
+113,Ingeniería Mecánica,3,16,Sí,8.2,Bicicleta,4.3
+114,Ingeniería de Sistemas,6,21,No,7.4,TransMilenio,3.1
+115,Ingeniería de Sistemas,3,19,Sí,8.4,SITP,2.9
+116,Ingeniería Civil,3,18,No,6.4,SITP,3.9
+117,Ingeniería de Sistemas,1,16,No,10.0,TransMilenio,3.8
+118,Ingeniería Industrial,3,20,No,7.7,TransMilenio,3.2
+119,Ingeniería Mecánica,2,20,Sí,15.1,A pie,4.4
+120,Ingeniería Eléctrica,3,17,No,7.3,TransMilenio,3.5
